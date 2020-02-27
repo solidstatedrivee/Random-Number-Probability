@@ -3,35 +3,35 @@
  
  ## Example output
  *****
- Your random numbers are:
+ >Your random numbers are:
  
  
-3
+>3
 
 
-3
+>3
 
 
-4
+>4
 
 
-4
+>4
 
 
-5
+>5
 
 
-6
+>6
 
 
-There is about a 33% chance of choosing 3 at random
+>There is about a 33% chance of choosing 3 at random
 
 
-There is about a 33% chance of choosing 4 at random
+>There is about a 33% chance of choosing 4 at random
 
 
-There is about a 17% chance of choosing 5 at random
+>There is about a 17% chance of choosing 5 at random
 
 
-There is about a 17% chance of choosing 6 at random
+>There is about a 17% chance of choosing 6 at random
 
